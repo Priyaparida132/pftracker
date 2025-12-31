@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+pftracker
 
-# Run and deploy your AI Studio app
+PFTracker is a personal finance tracking web application built using React and TypeScript.  
 
-This contains everything you need to run your app locally.
+ Features
+- Dashboard showing total income, total expenses, and current balance
+- Category-wise expense tracking
+- Monthly income vs expense visualization
+- Budget tracking for better financial planning
+- Clean and responsive UI
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- 
+Learning Outcome
+- Built a real-world React project from scratch
+- Improved understanding of TypeScript with React
+- Learned component-based architecture
+- Worked with charts, UI state, and reusable components
+- Hands-on experience with Git and GitHub
